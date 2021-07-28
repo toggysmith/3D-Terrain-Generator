@@ -12,3 +12,8 @@ You can use ESC to toggle whether the mouse is freed. When the mouse is locked, 
 
 There is a video available at: https://youtu.be/YoPgDjKOtP8
 
+<img width="1440" alt="Screenshot 2021-07-28 at 16 37 08" src="https://user-images.githubusercontent.com/61121030/127352352-bd6eb677-908e-47b8-906e-7bfb78cb82a5.png">
+
+<img width="1440" alt="Screenshot 2021-07-28 at 16 37 16" src="https://user-images.githubusercontent.com/61121030/127352390-361e9514-47d5-4c5e-88a3-2264c2204fe4.png">
+<img width="1440" alt="Screenshot 2021-07-28 at 16 37 27" src="https://user-images.githubusercontent.com/61121030/127352394-fc62e1a5-1ecd-4490-9c76-864606f2e6af.png">
+<img width="1440" alt="Screenshot 2021-07-28 at 16 37 35" src="https://user-images.githubusercontent.com/61121030/127352397-bb3f294e-b9f9-4dc6-83ff-0451d2992257.png">
